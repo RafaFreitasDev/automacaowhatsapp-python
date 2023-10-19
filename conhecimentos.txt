@@ -1,0 +1,5 @@
+Fazer automação em navegador - SELENIUM
+Criar serviça e manipular navegador - WEBDRIVER
+Copiar e colar texto - PYPERCLIP
+
+https://www.youtube.com/watch?v=ydV-gfqR4Uo&ab_channel=HashtagPrograma%C3%A7%C3%A3o
