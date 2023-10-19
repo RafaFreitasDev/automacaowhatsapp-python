@@ -62,7 +62,7 @@ python main.py
 
 Se você tiver alguma dúvida ou problema, sinta-se à vontade para entrar em contato:
 
-Rafael Almeida Freitas
-Email: raf.mec.ba@gmail.com
-Obs.: Colocar "Dúvida Projeto Git - nomeDoProjeto" no assunto
+- Rafael Almeida Freitas
+- Email: raf.mec.ba@gmail.com
+- Obs.: Colocar "Dúvida Projeto Git - nomeDoProjeto" no assunto
 
