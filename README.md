@@ -7,6 +7,7 @@ Antes de começar, certifique-se de ter instalado o seguinte:
 
 - Python 3.11: [https://www.python.org/downloads/](https://www.python.org/downloads/)
 - Git (opcional, mas útil para clonar o repositório): [https://git-scm.com/downloads](https://git-scm.com/downloads)
+- Google Chrome: [https://www.google.com/intl/pt-BR/chrome/](https://www.google.com/intl/pt-BR/chrome/)
 
 ## Instalação
 
